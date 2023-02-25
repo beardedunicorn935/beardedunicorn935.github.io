@@ -1,18 +1,5 @@
 
-table{color:#ffffff;
-     border-collapse:collapse;
-     border:2px solid #fbfbfb;
-     width:100%;
-
-     }
-     th{height:70px;
-        font-size:36px;}
-     table td{
-     border:2px solid #ffffff;
-     text-align:center;
-     }
-
-body{background-color: rgb(106, 130, 237);
+body {background-color: rgb(106, 130, 237);
      font-size:150%;
      }
 
@@ -29,7 +16,21 @@ body{background-color: rgb(106, 130, 237);
 li span {font-weight:normal;
          text-align:center;}
 
-ol{font-size:larger;
+ol {font-size:larger;
     color:white;
     
- }
+  }
+
+table {color:#ffffff;
+     border-collapse:collapse;
+     border:2px solid #fbfbfb;
+     width:100%;
+
+     }
+th {height:70px;
+     font-size:36px;}
+     table td{
+     border:2px solid #ffffff;
+     text-align:center;
+     }
+
